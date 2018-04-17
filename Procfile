@@ -1,1 +1,1 @@
-worker samp-server.exe
+worker batch starter.bat
