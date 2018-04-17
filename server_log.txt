@@ -1,0 +1,279 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:24] rcon_password = "changeme"  (string)
+[18:08:24] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:25] rcon_password = "changeme"  (string)
+[18:08:25] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:04] rcon_password = "changeme"  (string)
+[18:10:04] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:30] rcon_password = "changeme"  (string)
+[18:10:30] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:44] rcon_password = "changeme"  (string)
+[18:10:44] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:11:00] 
+[18:11:00] Server Plugins
+[18:11:00] --------------
+[18:11:00]  Loaded 0 plugins.
+
+[18:11:00] 
+[18:11:00] Filterscripts
+[18:11:00] ---------------
+[18:11:00]   Loading filterscript 'gl_actions.amx'...
+[18:11:00]   Loading filterscript 'gl_realtime.amx'...
+[18:11:00]   Loading filterscript 'gl_property.amx'...
+[18:11:00] 
+-----------------------------------
+[18:11:00] Grand Larceny Property Filterscript		
+[18:11:00] -----------------------------------
+
+[18:11:00]   Loading filterscript 'gl_mapicon.amx'...
+[18:11:00]   Loading filterscript 'ls_elevator.amx'...
+[18:11:00]   Loading filterscript 'attachments.amx'...
+[18:11:00]   Loading filterscript 'skinchanger.amx'...
+[18:11:00] 
+--Admin Player Skin Changer Loaded
+
+[18:11:00]   Loading filterscript 'vspawner.amx'...
+[18:11:00] 
+--Admin Vehicle Spawner Loaded
+
+[18:11:00]   Loading filterscript 'ls_mall.amx'...
+[18:11:00]   Loading filterscript 'ls_beachside.amx'...
+[18:11:00] 
+
+[18:11:00]   |---------------------------------------------------
+[18:11:00]   |--- LS BeachSide Filterscript
+[18:11:00]   |--  Script v1.03
+[18:11:00]   |--  19th April 2015
+[18:11:00]   |---------------------------------------------------
+[18:11:00]   |--  LS BeachSide Building Elevator created
+[18:11:00]   |---------------------------------------------------
+[18:11:00]   Loaded 10 filterscripts.
+
+[18:11:00] Loaded 3 vehicles from: vehicles/trains.txt
+[18:11:00] Loaded 3 vehicles from: vehicles/pilots.txt
+[18:11:00] Loaded 15 vehicles from: vehicles/lv_law.txt
+[18:11:00] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[18:11:00] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[18:11:00] Loaded 38 vehicles from: vehicles/sf_law.txt
+[18:11:00] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[18:11:00] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[18:11:00] Loaded 24 vehicles from: vehicles/ls_law.txt
+[18:11:00] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[18:11:00] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[18:11:00] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[18:11:00] Loaded 71 vehicles from: vehicles/whetstone.txt
+[18:11:00] Loaded 168 vehicles from: vehicles/bone.txt
+[18:11:00] Loaded 61 vehicles from: vehicles/flint.txt
+[18:11:00] Loaded 96 vehicles from: vehicles/tierra.txt
+[18:11:00] Loaded 96 vehicles from: vehicles/red_county.txt
+[18:11:00] Total vehicles from files: 1781
+[18:11:00] Reading File: blank
+[18:11:00] Reading File: properties/houses.txt
+[18:11:00] Reading File: properties/businesses.txt
+[18:11:00] Reading File: properties/banks.txt
+[18:11:00] Reading File: properties/police.txt
+[18:11:00] 
+---------------------------------------
+[18:11:00] Running Grand Larceny - by the SA-MP team
+
+[18:11:00] ---------------------------------------
+
+[18:11:00] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:25:57] password = ""  (string)
+[18:25:57] 
+[18:25:57] Server Plugins
+[18:25:57] --------------
+[18:25:57]  Loading plugin: streamer
+[18:25:57]   Failed.
+[18:25:57]  Loading plugin: sscanf
+[18:25:57]   Failed.
+[18:25:57]  Loaded 0 plugins.
+
+[18:25:57] 
+[18:25:57] Filterscripts
+[18:25:57] ---------------
+[18:25:57]   Loading filterscript 'maps.amx'...
+[18:25:57]   Unable to load filterscript 'maps.amx'.
+[18:25:57]   Loading filterscript 'commands.amx'...
+[18:25:57]   Unable to load filterscript 'commands.amx'.
+[18:25:57]   Loaded 0 filterscripts.
+
+[18:25:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:25:57] 
+----------------------------------
+[18:25:57]   Bare Script
+
+[18:25:57] ----------------------------------
+
+[18:25:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:27:04] password = ""  (string)
+[18:27:04] 
+[18:27:04] Server Plugins
+[18:27:04] --------------
+[18:27:04]  Loading plugin: streamer
+[18:27:04]   Failed.
+[18:27:04]  Loading plugin: sscanf
+[18:27:04]   Failed.
+[18:27:04]  Loaded 0 plugins.
+
+[18:27:04] 
+[18:27:04] Filterscripts
+[18:27:04] ---------------
+[18:27:04]   Loading filterscript 'main.amx'...
+[18:27:04]   Unable to load filterscript 'main.amx'.
+[18:27:04]   Loading filterscript 'commands.amx'...
+[18:27:04]   Unable to load filterscript 'commands.amx'.
+[18:27:04]   Loaded 0 filterscripts.
+
+[18:27:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:27:04] 
+----------------------------------
+[18:27:04]   Bare Script
+
+[18:27:04] ----------------------------------
+
+[18:27:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:39:47] password = ""  (string)
+[18:39:47] 
+[18:39:47] Server Plugins
+[18:39:47] --------------
+[18:39:47]  Loading plugin: streamer
+[18:39:47]   Failed.
+[18:39:47]  Loading plugin: sscanf
+[18:39:47]   Failed.
+[18:39:47]  Loaded 0 plugins.
+
+[18:39:47] 
+[18:39:47] Filterscripts
+[18:39:47] ---------------
+[18:39:47]   Loading filterscript 'maps.amx'...
+[18:39:47]   Loading filterscript 'commands.amx'...
+[18:39:47]   Loaded 2 filterscripts.
+
+[18:39:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:39:47] 
+----------------------------------
+[18:39:47]   Bare Script
+
+[18:39:47] ----------------------------------
+
+[18:39:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:41:35] password = ""  (string)
+[18:41:35] 
+[18:41:35] Server Plugins
+[18:41:35] --------------
+[18:41:35]  Loading plugin: streamer
+[18:41:35]   Failed.
+[18:41:35]  Loading plugin: sscanf
+[18:41:35]   Failed.
+[18:41:35]  Loaded 0 plugins.
+
+[18:41:35] 
+[18:41:35] Filterscripts
+[18:41:35] ---------------
+[18:41:35]   Loading filterscript 'maps.amx'...
+[18:41:35]   Loading filterscript 'commands.amx'...
+[18:41:35]   Loaded 2 filterscripts.
+
+[18:41:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:41:35] 
+----------------------------------
+[18:41:35]   Bare Script
+
+[18:41:35] ----------------------------------
+
+[18:41:35] Number of vehicle models: 0
+[18:42:00] [connection] 192.168.1.175:63152 requests connection cookie.
+[18:42:01] [connection] incoming connection: 192.168.1.175:63152 id: 0
+[18:42:01] [join] ZorbYT_ has joined the server (0:192.168.1.175)
+[18:44:12] [chat] [ZorbYT_]: lol
+[18:44:22] [part] ZorbYT_ has left the server (0:1)
